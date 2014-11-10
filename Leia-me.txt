@@ -1,4 +1,21 @@
+link no azure
+
 URL do Projeto - http://quironesportes.azurewebsites.net
+ 
+                 http://quironesportes.azurewebsites.net/Carrinho/Index
+
+
+--------------------------------------------------------
+
+GitHub
+
+charlis.monhol@gmail.com
+senha padrao
+
+https://github.com/charlismonhol/cursoAspNet.git
+
+conta: devmedia2014@outlook.com
+Senha: brasil2014
 
 
 /////////////////////////////////////////////////////////////////
@@ -9,6 +26,8 @@ Dominio - Entidade
 References
 Install-Package Microsoft.AspNet.Mvc
 System.ComponentModel.DataAnnotations
+
+Install-Package EntityFramework
 
 
 /////////////////////////////////////////////////////////////////
@@ -27,56 +46,17 @@ Quiron.LojaVirtual.Web
 
 Install-Package Microsoft.AspNet.Mvc
 
-
-
-https://github.com/charlismonhol/cursoAspNet.git
-
-
-
--------------
-
-link no azure
-
-http://quironesportes.azurewebsites.net/Carrinho/Index
-
--------------
-
-GitHub
-
-charlis.monhol@gmail.com
-senha padrao
-
-https://github.com/charlismonhol/cursoAspNet.git
-
-conta: devmedia2014@outlook.com
-Senha: brasil2014
-
-devmedialoja
-
--------------
-
-Referencias 
-
-> Dominio
-
-Install-Package Microsoft.AspNet.Mvc
-
-System.ComponentModel.DataAnnotations
-
 Install-Package EntityFramework
 
-> UnitTest
 
-Install-Package Microsoft.AspNet.Mvc
 
-> Web
-
-Install-Package EntityFramework
-
-----
+----------------------------------------------------------------
 
 LocalDb - SQL Server Express
 
+
+
+----------------------------------------------------------------
 
 
 ESTUDAR
