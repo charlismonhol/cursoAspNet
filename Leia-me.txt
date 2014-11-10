@@ -1,0 +1,90 @@
+URL do Projeto - http://quironesportes.azurewebsites.net
+
+
+/////////////////////////////////////////////////////////////////
+Quiron.LojaVirtural.Dominio - Class Libary
+
+Dominio - Entidade
+
+References
+Install-Package Microsoft.AspNet.Mvc
+System.ComponentModel.DataAnnotations
+
+
+/////////////////////////////////////////////////////////////////
+Quiron.LojaVirtural.Web - ASP.NET MVC 5
+
+References
+Quiron.LojaVirtual.Dominio
+
+
+/////////////////////////////////////////////////////////////////
+Quiron.LojaVirtural.UniTest
+
+References
+Quiron.LojaVirtual.Dominio
+Quiron.LojaVirtual.Web
+
+Install-Package Microsoft.AspNet.Mvc
+
+
+
+https://github.com/charlismonhol/cursoAspNet.git
+
+
+
+-------------
+
+link no azure
+
+http://quironesportes.azurewebsites.net/Carrinho/Index
+
+-------------
+
+GitHub
+
+charlis.monhol@gmail.com
+senha padrao
+
+https://github.com/charlismonhol/cursoAspNet.git
+
+conta: devmedia2014@outlook.com
+Senha: brasil2014
+
+devmedialoja
+
+-------------
+
+Referencias 
+
+> Dominio
+
+Install-Package Microsoft.AspNet.Mvc
+
+System.ComponentModel.DataAnnotations
+
+Install-Package EntityFramework
+
+> UnitTest
+
+Install-Package Microsoft.AspNet.Mvc
+
+> Web
+
+Install-Package EntityFramework
+
+----
+
+LocalDb - SQL Server Express
+
+
+
+ESTUDAR
+
+MvcHtmlString Class - http://goo.gl/bp0fjb
+
+Anatomy of a Unit Test - http://goo.gl/MuuDo8
+Test Driven Development - http://goo.gl/y45pjx
+
+
+
